@@ -1,4 +1,4 @@
-# Data Science Mini Projects
+# Machine Learning Mini Projects
 
 ### Authors: Shivarjun Sarkar, Yash Warty, Sahil Natu and Vivek Mehendiratta
 
